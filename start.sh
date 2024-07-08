@@ -7,7 +7,7 @@ chmod +x start.sh
 # source venv/bin/activate
 
 # Run the main Python script
-python main.py
+python app.py
 
 # Deactivate the virtual environment (if used)
 # deactivate
